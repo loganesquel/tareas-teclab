@@ -1,0 +1,18 @@
+{
+    "OrderID": 123456 ,
+    "Address": "Pasaje Argentina 123!",
+    "Status":"Ready",
+    "Articles": [ 
+            {"Name":"Carne",
+            "price": 500 ,
+            "Quantity": 20,
+            "Dangerous": false  
+            },
+            {
+            "Name":"Sopa",
+            "price": 5000,
+            "Quantity": 120,
+            "Dangerous": true
+            }
+            ]
+}
